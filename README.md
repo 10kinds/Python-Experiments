@@ -12,5 +12,6 @@ My competencies include:
 - Infrastructure Design and Scale-out
 - Database Administration and Data Modeling
 - Enterprise Program Management
+
 I'm a big fan of Thomas Edison and I have built an automated payment processor called *Thomas*, a bespoke application built on APIs, that integrates with Oracle's Accounts Payable flat file process. It's a young product, so I thought it best to have a young Thomas Edison represent it.
-![A Young Thomas Edison is the face of my product called Thomas](Fotor_AI.png) "Thomas")
+![A Young Thomas Edison is the face of my product called Thomas](Fotor_AI.png "Thomas")
